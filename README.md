@@ -12,10 +12,10 @@
 
 ## 🚀 About Me
 
-> **Full-Stack Developer** with **5+ years** of experience building scalable web applications and microservices. Passionate about creating innovative solutions and leading technical teams to deliver exceptional results.
+> **Full-Stack Developer** with **10+ years** of experience building scalable web applications and microservices. Passionate about creating innovative solutions and leading technical teams to deliver exceptional results.
 
 ### 🎯 Professional Summary
-Experienced Full-Stack Developer skilled in **Angular**, **React**, **Spring Boot**, **Node.js**, and **DevOps** tools like Docker and Jenkins. Proven track record in leading CI/CD pipelines, optimizing performance, and mentoring development teams. Collaborative, curious, and always eager to learn new technologies.
+Experienced Full-Stack Team Lead skilled in **Angular**, **React**, **Spring Boot**, **Node.js**, and **DevOps** tools like Docker and Jenkins. Proven track record in leading CI/CD pipelines, optimizing performance, and mentoring development teams. Collaborative, curious, and always eager to learn new technologies.
 
 ---
 
